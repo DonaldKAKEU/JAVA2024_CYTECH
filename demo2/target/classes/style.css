@@ -1,0 +1,10 @@
+#buttonId{
+    -fx-background-image: url("/resources/button.png");
+    -fx-background-repeat: no-repeat;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 200px;
+}
+
+#buttonId : Pressed{
+    -fx-background-image: url("/resources/button.png");
+}
