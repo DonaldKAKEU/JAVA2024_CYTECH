@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46c48ffd-9f18-4789-8e78-89d6bb415e21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/JAVA 2024 FX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleElementDecor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleInventaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleJeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleListeMonde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleMonde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePersonnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePointVie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePuissance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleZoneJeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/PersonnageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/JeuView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/ElementDecor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/Mur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/Porte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Exceptions/BadCleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Game/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Controlable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Deplacer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Discuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Interagir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Mondes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Traversable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Arme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/ArmeDefensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/ArmeOffensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Cle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/SuperCle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/LesMondes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/Monde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Artisant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Monstre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/PJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/PNJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Sorciere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/ElementDecorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/MurView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/PorteView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/ItemsView/ItemsView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/MondeView/MondeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/MonstreView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/PersonnageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/PjView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/TestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/resources/com/example/java_2024_fx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/Model/Personnages/Monstre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/Model/Personnages/PJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/Presentation/PersonnageView/MonstreView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/Presentation/PersonnageView/PjView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/com/example/java_2024_fx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024 FX/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/.idea/libraries/javafx_sdk_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/.idea/libraries/openjfx_22_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/JAVA 2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Decor/ElementDecor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Decor/Mur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Decor/Porte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Exceptions/BadCleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Controlable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Deplacement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Discuter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Interagir.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Mondes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Interfaces/Traversable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/Arme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/ArmeDefensive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/ArmeOffensive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/Cle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/Items.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/Potion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Items/SuperCle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Mondes/Monde.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Mondes/Piece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Personnages/Artisant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Personnages/PNJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Personnages/Personnage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Personnages/Sorciere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Position/Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/out/production/JAVA 2024/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Decor/ElementDecor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Decor/Mur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Decor/Porte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Exceptions/BadCleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Controlable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Deplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Discuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Interagir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Mondes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Interfaces/Traversable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/Arme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/ArmeDefensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/ArmeOffensive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/Cle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Items/SuperCle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Mondes/Monde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Mondes/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Personnages/Artisant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Personnages/PJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Personnages/PNJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Personnages/Personnage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Personnages/Sorciere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Position/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA 2024/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/.idea/libraries/lib__6_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/SIAO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/lib/mssql-jdbc-12.2.0.jre11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/lib/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/src/Connexion/DbConnexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/src/Connexion/DbManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAO-main/SIAO/src/siaoAppli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAOMain/.idea/SIAO-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SIAOMain/demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tps/Tps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tps/src/TestTp10/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tps/src/TestTp8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tps/src/TestTp8/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/Compteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/example/demo2/Objet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/resources/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/Photo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/Visionneuse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/control/controlPhotoCentre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/resources/com/example/demo3/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Album.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Photo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Visionneuse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Visionneuse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/target/classes/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/example/demo4/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/com/example/demo4/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo4/src/main/resources/com/example/demo4/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo5/demo5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo6/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo6/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/demo6/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp8 (2).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gk1xko82m7MVbLP3aQGDKTWHRl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp8 (2).jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c48ffd-9f18-4789-8e78-89d6bb415e21" name="Changes" comment="" />
+      <created>1716227011174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716227011174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
