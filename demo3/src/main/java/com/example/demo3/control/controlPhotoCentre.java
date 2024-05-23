@@ -22,6 +22,5 @@ public class controlPhotoCentre  implements Observer {
     public void update(Observable o, Object arg) {
         Integer i =(Integer)arg;
 
-        this.album.
     }
 }

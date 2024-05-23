@@ -4,7 +4,96 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46c48ffd-9f18-4789-8e78-89d6bb415e21" name="Changes" comment="" />
+    <list default="true" id="46c48ffd-9f18-4789-8e78-89d6bb415e21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JAVA2024_CYTECH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_base_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_media_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_openjfx_javafx_web_win_18_ea_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/JAVA 2024 FX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/JAVA 2024 FX.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleElementDecor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleInventaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleJeu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleListeMonde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleMonde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePersonnage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePointVie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControlePuissance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/ControleZoneJeu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Controller/PersonnageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/JeuView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/ElementDecor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/Mur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Decor/Porte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Exceptions/BadCleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Game/Jeu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Controlable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Deplacer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Discuter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Interagir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Mondes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Interfaces/Traversable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Arme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/ArmeDefensive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/ArmeOffensive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Cle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/Potion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Items/SuperCle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/LesMondes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/Monde.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Mondes/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Artisant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Monstre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/PJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/PNJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Personnage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Model/Personnages/Sorciere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/ElementDecorView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/MurView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/DecorView/PorteView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/ItemsView/ItemsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/MondeView/MondeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/MonstreView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/PersonnageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/Presentation/PersonnageView/PjView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/java_2024_fx/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 2024 FX/src/main/java/com/example/TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/control/controlPhotoCentre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/example/demo3/control/controlPhotoCentre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Visionneuse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../demo3/target/classes/com/example/demo3/Visionneuse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +101,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/demo6/HelloController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/demo6/HelloApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/com/example/demo6/hello-view.fxml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/module-info.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,7 +123,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-20" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tp8 (2).jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA 2024 FX" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
